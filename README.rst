@@ -2,9 +2,11 @@ Comparer
 ====================================
 
 Source code of demo app for image comparison
-http://comparer-f8a6d5.herokuapp.com/
+https://raadim.herokuapp.com/
 
-Full article
-http://7webpages.com/blog/image-duplicates-detection-python/
+Full article and forked from
+https://github.com/7WebPages/comparer
 
-.. image:: http://micromanager.7webpages.com/media/2015-09-21_22-10-13_Arc.png
+
+
+
